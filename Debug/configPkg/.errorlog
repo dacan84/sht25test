@@ -1,0 +1,6 @@
+error: ti.mcu.msp430.csl.CSL: "C:\ti\grace_3_10_00_82\packages\ti\mcu\msp430\csl\templates\makefile.xdt", line 106: ti.mcu.msp430.csl.CSL : can't find msp430 header files
+js: "C:/ti/xdctools_3_31_01_33_core/packages/xdc/cfg/Main.xs", line 160: Error: Configuration failed!
+xdctools_3_31_01_33_core\gmake.exe: *** [package/cfg/main_pe430X.xdl] Error 1
+xdctools_3_31_01_33_core\gmake.exe: *** Deleting file `package/cfg/main_pe430X.xdl'
+xdctools_3_31_01_33_core\gmake.exe: *** [package/cfg/main_pe430X.xdl] Deleting file `package/cfg/main_pe430X.h'
+xdctools_3_31_01_33_core\gmake.exe: *** [package/cfg/main_pe430X.xdl] Deleting file `package/cfg/main_pe430X.c'
